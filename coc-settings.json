@@ -1,0 +1,5 @@
+{
+"eslint.alwaysShowStatus": true,
+"eslint.autoFixOnSave": true,
+ "coc.preferences.formatOnSaveFiletypes": ["css", "markdown", "javascrip", "typescript", "jsx", "tsx"],
+}

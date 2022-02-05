@@ -84,7 +84,7 @@ call plug#end()
 
 
 " tema de cores 
-colorscheme atom-dark-256
+" colorscheme atom-dark-256
 
 " size indentetio
 set tabstop=2
